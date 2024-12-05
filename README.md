@@ -1,11 +1,13 @@
 # README #
-### TOCOMPILE ###
+### The first time you run it
+* Open command prompt
+* cd into the folder you extracted this
 * spago install
-## Open two terminals (or) command prompts. In Terminal 1, run below command
-* spago build -w
-## In Terminal 2, run below command
+
+## To run the project
 * spago bundle-app --to dist/app.js --watch
-## Open the below directory on File Explorer (Windows)/ Finder (Mac)
-$ project_dir/dist/index.html to see the cube
+
+## Open the below directory on File Explorer (Windows)
+$ filename/dist/index.html to see the cube
 
 Dev Workflow: Make changes to files in src and it will automatically compile. Reload index.html in the browser.
