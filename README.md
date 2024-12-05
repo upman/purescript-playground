@@ -10,4 +10,5 @@
 ## Open the below directory on File Explorer (Windows)
 $ filename/dist/index.html to see the cube
 
-Dev Workflow: Make changes to files in src and it will automatically compile. Reload index.html in the browser.
+## Dev Workflow
+Open the folder in VS Code. Make changes to src/Main.purs and it will automatically compile. Reload index.html in the browser.
